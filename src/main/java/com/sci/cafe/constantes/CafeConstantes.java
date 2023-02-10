@@ -7,6 +7,6 @@ public class CafeConstantes {
 
     public static final String UNAUTHORIZED_ACCESS = "Acesso não Autorizado.";
 
-    public static final String STORE_LOCATION = "C:\\Users\\AMD FX 8300\\Desktop\\curso\\cafe_arquivos";
+    public static final String STORE_LOCATION = "C:\\Users\\AMD FX 8300\\Desktop\\curso\\Cafeteria 100%\\cafe_arquivos";
 
 }
